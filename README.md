@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate developer and public translator student from Argentina</h3>
+<h3 align="center">A passionate developer and public translator student</h3>
 
 - 🔭 I’m currently working on [cinema-app](https://github.com/sromero50/cinema-app)
 
