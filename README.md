@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [cinema-app](https://github.com/sromero50/cinema-app)
 
-- 🌱 I’m currently learning *Angular**
+- 🌱 I’m currently learning *Angular*
 
 - 👨‍💻 All of my projects are available at [https://github.com/sromero50?tab=repositories](https://github.com/sromero50?tab=repositories)
 
