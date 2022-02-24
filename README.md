@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate developer and public translator student</h3>
 
-- 🔭 I’m currently working on [cinema-app](https://github.com/sromero50/cinema-app)
+- 🔭 I’m currently working on [e-commerce nextjs](https://github.com/sromero50/e-commerce-nextjs)
 
-- 🌱 I’m currently learning *Angular*
+- 🌱 I’m currently learning *NextJS and Tailwind*
 
 - 👨‍💻 All of my projects are available at [https://github.com/sromero50?tab=repositories](https://github.com/sromero50?tab=repositories)
 
