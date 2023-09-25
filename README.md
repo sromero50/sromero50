@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate developer and public translator student</h3>
 
-- 🔭 I’m currently working on [e-commerce nextjs](https://github.com/sromero50/e-commerce-nextjs)
-
 - 🌱 I’m currently learning *NextJS and Tailwind*
 
 - 👨‍💻 All of my projects are available at [https://github.com/sromero50?tab=repositories](https://github.com/sromero50?tab=repositories)
@@ -14,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sebastian-romero-portela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-romero-portela/" height="30" width="40" /></a>
-<a href="https://instagram.com/sebaaasd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebaaasd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
